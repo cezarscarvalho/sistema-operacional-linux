@@ -25,10 +25,9 @@ Instalação do Ubuntu Linux em ambiente virtual para testes de infraestrutura s
 ![Interface do Ubuntu no VirtualBox](img/Associar-ISO-iniciar(T).png)
 ![Interface do Ubuntu no VirtualBox](img/Montar_e_tentar_novo_boot.png)
 ![Interface do Ubuntu no VirtualBox](img/Instalacao-ubuntu.png)
-![Interface do Ubuntu no VirtualBox](img/Maquina-virtual-ubuntu.png)
-![Interface do Ubuntu no VirtualBox](img/Novo-maquina-virtual.png)
-![Interface do Ubuntu no VirtualBox](img/Maquina-virtual-ubuntu.png)
-![Interface do Ubuntu no VirtualBox](img/Aplicativos-linux.png) 
+![Interface do Ubuntu no VirtualBox](img/Experimentar-ubuntu.png)
+![Interface do Ubuntu no VirtualBox](img/Aplicativos-linux.png)
+![Interface do Ubuntu no VirtualBox](img/Terminal.png)
 
 ### 2. Manipulação de Diretórios e Ficheiros
 Criação de uma estrutura organizada de pastas para simular um ambiente de laboratório.
