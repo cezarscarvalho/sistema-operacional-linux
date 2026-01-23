@@ -19,14 +19,23 @@ Este repositório documenta as atividades práticas realizadas na disciplina de 
 Instalação do Ubuntu Linux em ambiente virtual para testes de infraestrutura sem impacto no sistema anfitrião.
 
 ![Interface do Ubuntu no VirtualBox](img/Download-ISO.png)
+
 ![Interface do Ubuntu no VirtualBox](img/Nome-maquina-virtual.png)
+
 ![Interface do Ubuntu no VirtualBox](img/Tamanho-memoria-RAM.png)
+
 ![Interface do Ubuntu no VirtualBox](img/Sumario-final-maquina-virtual.png)
+
 ![Interface do Ubuntu no VirtualBox](img/Associar-ISO-iniciar(T).png)
-![Interface do Ubuntu no VirtualBox](img/Montar_e_tentar_novo_boot.png)
+
+![Interface do Ubuntu no VirtualBox](img/Montar_e_tentar_novo_Boot.png)
+
 ![Interface do Ubuntu no VirtualBox](img/Instalacao-ubuntu.png)
+
 ![Interface do Ubuntu no VirtualBox](img/Experimentar-ubuntu.png)
+
 ![Interface do Ubuntu no VirtualBox](img/Aplicativos-linux.png)
+
 ![Interface do Ubuntu no VirtualBox](img/Terminal.png)
 
 ### 2. Manipulação de Diretórios e Ficheiros
