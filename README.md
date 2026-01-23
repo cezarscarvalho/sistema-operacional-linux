@@ -34,7 +34,7 @@ Criação de uma estrutura organizada de pastas para simular um ambiente de labo
 * Comandos utilizados: `mkdir`, `cd`, `ls -l`.
 
 **Estrutura de pastas criada:**
-![Print do terminal mostrando os diretórios](imagens/print_diretorios.png)
+![Print do terminal mostrando os diretórios](linux-terminal/print_diretorios.png)
 
 ### 3. Criação de Conteúdo via Terminal
 Utilização do comando `cat >` para criação do ficheiro `disciplinas_semestre` e verificação do conteúdo.
