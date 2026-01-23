@@ -60,7 +60,7 @@ Criação de uma estrutura organizada de pastas para simular um ambiente de labo
 ### 3. Criação de Conteúdo via Terminal
 Utilização do comando `cat >` para criação do ficheiro `disciplinas_semestre` e verificação do conteúdo.
 
-![Print do terminal mostrando os diretórios](linux-terminal/Verificacao-criacao-diretorios.png)
+![Print do terminal mostrando os diretórios](linux-terminal/Conteudo-arquivo-disciplinas_semestre.png)
 
 ### ## 🛠️ Documentação Técnica dos Comandos
 
