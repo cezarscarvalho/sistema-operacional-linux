@@ -1,0 +1,7 @@
+# Exemplo de fluxo utilizado:
+mkdir ATIVIDADES_LABORATORIO
+cd ATIVIDADES_LABORATORIO
+mkdir atividade1
+cd atividade1
+cat > disciplinas_semestre
+cat disciplinas_semestre
