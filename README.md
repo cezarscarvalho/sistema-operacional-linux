@@ -1,4 +1,4 @@
-## sistemas-operacionais-linux
+## sistema-operacional-linux
 # Sistemas Operacionais: Práticas em GNU/Linux (Ubuntu)
 
 Este repositório documenta as atividades práticas realizadas na disciplina de Sistemas Operacionais, focadas na configuração de ambientes virtualizados e domínio da linha de comandos (CLI) Linux.
@@ -115,4 +115,7 @@ O relatório acadêmico completo, com a fundamentação teórica e as conclusõe
   <a href="mailto:cezar.souza03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+<a href="https://wa.me/5511988541006?text=Ol%C3%A1%2C%20vi%20o%20seu%20portif%C3%B3lio%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20o%20seu%20perfil%20profissional." target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 </div>
