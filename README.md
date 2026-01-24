@@ -99,9 +99,9 @@ A realização desta prática de Sistemas Operacionais foi fundamental para cons
 Este projeto reafirma o meu compromisso em unir a **visão estratégica de gestão** com a **execução técnica precisa**, preparando-me para desafios em suporte analítico, gestão de infraestrutura ou Customer Success técnico.
 
 ---
-  ## 🔗 Veja Também
-* [Projeto de Sistema Lógica de Programação Portugol](https://github.com/cezarscarvalho/logica-programacao-portugol)
-* 💼 [LinkedIn](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
- 
 ## 📂 Conteúdo Adicional
 O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/sistemas-operacionais-linux/blob/main/docs/Relat%C3%B3rio%20Acad%C3%AAmico%20-%20Sistemas%20Operacionais.pdf)
+
+## 🔗 Veja Também
+* [Projeto de Sistema Lógica de Programação Portugol](https://github.com/cezarscarvalho/logica-programacao-portugol)
+* 💼 [LinkedIn](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
