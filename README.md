@@ -109,7 +109,7 @@ O relatório acadêmico completo, com a fundamentação teórica e as conclusõe
 ## ✉️ Contato
 
 <div>
-  <a href="[SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:cezar.souza03@gmail.com">
