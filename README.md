@@ -102,6 +102,17 @@ Este projeto reafirma o meu compromisso em unir a **visão estratégica de gest�
 ## 📂 Conteúdo Adicional
 O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/sistemas-operacionais-linux/blob/main/docs/Relat%C3%B3rio%20Acad%C3%AAmico%20-%20Sistemas%20Operacionais.pdf)
 
-## 🔗 Veja Também
-* [Projeto de Sistema Lógica de Programação Portugol](https://github.com/cezarscarvalho/logica-programacao-portugol)
-* 💼 [LinkedIn](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
+## 🗺️ Navegação
+* 🏠 [Início do Perfil](https://github.com/cezarscarvalho)
+* 💼 [Projeto de Sistema Lógica de Programação Portugol](https://github.com/cezarscarvalho/logica-programacao-portugol)
+
+## ✉️ Contato
+
+<div>
+  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
