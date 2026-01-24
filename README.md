@@ -86,5 +86,26 @@ Para a execução das atividades práticas no terminal **Bash (Linux)**, foram u
     * **Visualização:** Utilizado o comando simples `cat disciplinas_semestre` para exibir o conteúdo no terminal e validar a integridade dos dados inseridos.
 
 ---
+## 🏁 Conclusão e Visão de Gestão
+
+A realização desta prática de Sistemas Operacionais foi fundamental para consolidar a base técnica necessária para a minha transição de carreira para a área de Tecnologia da Informação.
+
+### 💡 Porquê este conhecimento é relevante para o meu perfil?
+
+* **Fundamentos de Infraestrutura:** O domínio do terminal Linux e da estrutura de diretórios permite-me compreender como os dados são organizados e processados ao nível do servidor, uma competência essencial para quem pretende atuar em **Business Intelligence (BI)** e análise de grandes volumes de dados.
+* **Eficiência Operacional:** A virtualização (VirtualBox) demonstra a minha capacidade de configurar ambientes de teste seguros e económicos, uma prática de gestão que visa a otimização de recursos de hardware e a redução de riscos em projetos de TI.
+* **Transição e Adaptabilidade:** Após 16 anos na aviação, a execução bem-sucedida destas tarefas técnicas prova a minha agilidade de aprendizagem e a minha capacidade de transpor o foco no cliente e a disciplina operacional para o ambiente tecnológico.
+
+Este projeto reafirma o meu compromisso em unir a **visão estratégica de gestão** com a **execução técnica precisa**, preparando-me para desafios em suporte analítico, gestão de infraestrutura ou Customer Success técnico.
+
+---
+## 🗺️ Navegação pelo Portfólio
+* 🏠 [Início do Perfil]([https://github.com/cezarscarvalho])
+* 🐧 [Repositório de Sistemas Operacionais](https://github.com/seu-usuario/sistemas-operacionais-linux)
+* 💼 [LinkedIn](https//www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
+
+  ## 🔗 Veja Também
+* [Projeto de Sistema Lógica de Programação Portugol](https://github.com/cezarscarvalho/logica-programacao-portugol)
+ 
 ## 📂 Conteúdo Adicional
-O relatório académico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/documentos`.
+O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/sistemas-operacionais-linux/blob/main/docs/Relat%C3%B3rio%20Acad%C3%AAmico%20-%20Sistemas%20Operacionais.pdf)
