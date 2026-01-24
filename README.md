@@ -101,7 +101,7 @@ Este projeto reafirma o meu compromisso em unir a **visão estratégica de gest�
 ---
 ## 🗺️ Navegação pelo Portfólio
 * 🏠 [Início do Perfil](https://github.com/cezarscarvalho)
-* 🐧 [Repositório de Sistemas Operacionais](https://github.com/seu-usuario/sistemas-operacionais-linux)
+* 🐧 [Repositório de Sistemas Operacionais](https://github.com/cezarscarvalho/sistemas-operacionais-linux)
 * 💼 [LinkedIn](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
 
   ## 🔗 Veja Também
