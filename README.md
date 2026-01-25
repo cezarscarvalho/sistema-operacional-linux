@@ -106,6 +106,7 @@ O relatório acadêmico completo, com a fundamentação teórica e as conclusõe
 * 🏠 [Início do Perfil](https://github.com/cezarscarvalho)
 * 💻 [Lógica de Programação (Portugol)](https://github.com/cezarscarvalho/logica-programacao-portugol)
 * 💻 [Lógica Fluxograma Processos](https://github.com/cezarscarvalho/logica-fluxograma-processos)
+* 💻 [Modelagem de Dados](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
 
 ## ✉️ Contato
 
