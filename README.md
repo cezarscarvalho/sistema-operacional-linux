@@ -104,7 +104,7 @@ O relatório acadêmico completo, com a fundamentação teórica e as conclusõe
 
 ## 🗺️ Navegação
 * 🏠 [Início do Perfil](https://github.com/cezarscarvalho)
-* 💼 [Projeto de Sistema Lógica de Programação Portugol](https://github.com/cezarscarvalho/logica-programacao-portugol)
+* 💻 [Projeto de Sistema Lógica de Programação Portugol](https://github.com/cezarscarvalho/logica-programacao-portugol)
 
 ## ✉️ Contato
 
