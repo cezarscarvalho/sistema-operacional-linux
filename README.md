@@ -102,11 +102,17 @@ Este projeto reafirma o meu compromisso em unir a **visão estratégica de gest�
 ## 📂 Conteúdo Adicional
 O relatório acadêmico completo, com a fundamentação teórica e as conclusões, pode ser consultado na pasta `/docs`. [Visualizar Relatório Acadêmico](https://github.com/cezarscarvalho/sistemas-operacionais-linux/blob/main/docs/Relat%C3%B3rio%20Acad%C3%AAmico%20-%20Sistemas%20Operacionais.pdf)
 
-## 🗺️ Navegação
-* 🏠 [Início do Perfil](https://github.com/cezarscarvalho)
-* 💻 [Lógica de Programação (Portugol)](https://github.com/cezarscarvalho/logica-programacao-portugol)
-* 📐 [Lógica Fluxograma Processos](https://github.com/cezarscarvalho/logica-fluxograma-processos)
-* 💻 [Modelagem de Dados](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
+---
+
+## 🧭 Navegação Completa pelo Portfólio
+
+Confira os meus outros projetos técnicos desenvolvidos durante a graduação em Gestão de TI:
+
+* 🏠 [**Voltar ao Perfil Principal**](https://github.com/cezarscarvalho)
+* 💻 [**Lógica de Programação** (Portugol)](https://github.com/cezarscarvalho/logica-programacao-portugol)
+* 📐 [**Lógica e Processos** (Fluxogramas)](https://github.com/cezarscarvalho/logica-fluxogramas-processos)
+* 🗄️ [**Modelagem de Dados** (MySQL & DER)](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
+* 🌐 [**Redes de Computadores** (Cisco Packet Tracer)](https://github.com/cezarscarvalho/redes-infraestrutura-corporativa)
 
 ## ✉️ Contato
 
