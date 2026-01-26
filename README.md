@@ -110,9 +110,9 @@ Confira os meus outros projetos técnicos desenvolvidos durante a graduação em
 
 * 🏠 [**Voltar ao Perfil Principal**](https://github.com/cezarscarvalho)
 * 💻 [**Lógica de Programação** (Portugol)](https://github.com/cezarscarvalho/logica-programacao-portugol)
-* 📐 [**Lógica e Processos** (Fluxogramas)](https://github.com/cezarscarvalho/logica-fluxogramas-processos)
+* 📐 [**Lógica e Processos** (Fluxogramas)](https://github.com/cezarscarvalho/logica-fluxograma-processos)
 * 🗄️ [**Modelagem de Dados** (MySQL & DER)](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
-* 🌐 [**Redes de Computadores** (Cisco Packet Tracer)](https://github.com/cezarscarvalho/redes-infraestrutura-corporativa)
+* 🌐 [**Redes de Computadores** (Cisco Packet Tracer)](https://github.com/cezarscarvalho/projeto-cisco-packet-tracer)
 
 ## ✉️ Contato
 
