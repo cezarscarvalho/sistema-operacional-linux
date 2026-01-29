@@ -1,4 +1,3 @@
-## sistema-operacional-linux
 # Sistemas Operacionais: Práticas em GNU/Linux (Ubuntu)
 
 Este repositório documenta as atividades práticas realizadas na disciplina de Sistemas Operacionais, focadas na configuração de ambientes virtualizados e domínio da linha de comandos (CLI) Linux.
@@ -114,6 +113,7 @@ Confira os meus outros projetos técnicos desenvolvidos durante a graduação em
 * 🗄️ [**Modelagem de Dados** (MySQL & DER)](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
 * 🌐 [**Redes de Computadores** (Cisco Packet Tracer)](https://github.com/cezarscarvalho/projeto-cisco-packet-tracer)
 * 📊 [**Projeto Agile**](https://github.com/cezarscarvalho/projeto-software-agile)
+* 🌍 [**Projetos Extensionistas**](https://github.com/cezarscarvalho/projetos-extensionistas-faculdade)
 
 ## ✉️ Contato
 
